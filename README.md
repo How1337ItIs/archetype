@@ -2,6 +2,13 @@
 
 Solidity contracts for Scatter's NFT launchpad.
 
+## Royalty recipient policy
+
+See [Marketplace royalty recipient policy](docs/royalty-policy.md) for the
+public registry's resolution order, administrator controls, ERC-2981 boundary,
+existing test coverage, and deployment/audit verification checklist. Recipient
+resolution is distinct from marketplace fee calculation and referral sharing.
+
 ## Licensing
 
 Creator-deployed implementations, logic libraries, interfaces, test helpers, and tests are available under the MIT License in `LICENSES/MIT.txt`.
